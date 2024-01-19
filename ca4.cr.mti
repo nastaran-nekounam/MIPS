@@ -1,0 +1,67 @@
+E:/CA/CA4/ControlUnit.v {1 {vlog -work work E:/CA/CA4/ControlUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} E:/CA/CA4/ALUContol.v {1 {vlog -work work E:/CA/CA4/ALUContol.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} E:/CA/CA4/HazardUnit.v {1 {vlog -work work E:/CA/CA4/HazardUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} E:/CA/CA4/MipsPipelineTestbench.v {1 {vlog -work work E:/CA/CA4/MipsPipelineTestbench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MipsPipelineTB
+
+Top level modules:
+	MipsPipelineTB
+
+} {} {}} E:/CA/CA4/ForwardingUnit.v {1 {vlog -work work E:/CA/CA4/ForwardingUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} E:/CA/CA4/MipsPipeline.v {1 {vlog -work work E:/CA/CA4/MipsPipeline.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2_1_10b
+-- Compiling module MipsPipeline
+
+Top level modules:
+	MipsPipeline
+
+} {} {}} E:/CA/CA4/Datapath.v {1 {vlog -work work E:/CA/CA4/Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+-- Compiling module InstMem
+-- Compiling module ALU
+-- Compiling module Adder
+-- Compiling module RegFile
+-- Compiling module DataMem
+-- Compiling module SignExtend
+-- Compiling module Shl2
+-- Compiling module Mux5bit
+-- Compiling module Mux2To1
+-- Compiling module Mux3To1
+-- Compiling module Comparator
+-- Compiling module IFToIDReg
+-- Compiling module IDToEXReg
+-- Compiling module EXToMEMReg
+-- Compiling module MEMToWBReg
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}}
